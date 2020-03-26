@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://vuefire.vuejs.org" target="_blank" rel="noopener noreferrer"><img width="100" src="https://vuefire.vuejs.org/vuefire-logo.svg" alt="VueFire logo"></a></p>
 
 <h1 align="center">Vuefire & Vuexfire</h1>
@@ -65,3 +66,7 @@ Note: _This repository contains the code for `vuefire` and `vuexfire` packages:_
 ## License
 
 [MIT](http://opensource.org/licenses/MIT)
+=======
+# vuefire
+Firebase bindings for Vue.js &amp; Vuex
+>>>>>>> 7c70658a1e077f9de616a9c61600a2df7b62e42d
